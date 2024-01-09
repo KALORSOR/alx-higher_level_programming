@@ -23,6 +23,8 @@ void free_listint(listint_t *head);
 
 int is_palindrome(listint_t **head);
 
+/*size_t print_listint(const listint_t *h); */
+
 /**
  * def print_list_integer(my_list=[]):
  * def element_at(my_list, idx):
